@@ -1,0 +1,21 @@
+.maroon { color :#ae0208; }
+.navy { color: #05004c;}
+.indigo {color: #3250b3;}
+.spacing{ letter-spacing: 2px; word-spacing: 5px; line-height: 20px;
+
+}
+.uppercase{ text-transform: uppercase;}
+.lowercase{ text-transform: lowercase;}
+.capitalize{ text-transform: capitalize;}
+.paragraf{
+    font-family: "courier new";
+    font-size: 20px;
+}
+ul{
+    list-style-type: circle;
+
+}
+li{
+    font-family: "tahoma";
+    font-size: 15px;
+}
